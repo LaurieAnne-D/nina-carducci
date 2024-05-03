@@ -71,7 +71,11 @@ User body {
 
 .picture img {
 	width: 100%;
+	height: auto;
+}
 
+.d-block {
+	height: auto;
 }
 
 #about-me {
@@ -401,5 +405,4 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
 
